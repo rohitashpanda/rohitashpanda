@@ -2,7 +2,9 @@
 
 ## University CS Lectures on OS/Compilers
 
-[IIT Bombay Lectures on Operating Systems](https://www.cse.iitb.ac.in/~mythili/os/)
+[Design and Engineering of Computer Systems](https://www.cse.iitb.ac.in/~mythili/decs/)
+
+[IITB Lectures on Operating Systems](https://www.cse.iitb.ac.in/~mythili/os/)
 
 [IITB Virtualization and Cloud Computing](https://www.cse.iitb.ac.in/~mythili/virtcc/)
 
