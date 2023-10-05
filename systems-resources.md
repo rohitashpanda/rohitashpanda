@@ -2,7 +2,7 @@
 
 ## University CS Lectures on OS/Compilers
 
-[Design and Engineering of Computer Systems](https://www.cse.iitb.ac.in/~mythili/decs/)
+[IITB Design and Engineering of Computer Systems](https://www.cse.iitb.ac.in/~mythili/decs/)
 
 [IITB Lectures on Operating Systems](https://www.cse.iitb.ac.in/~mythili/os/)
 
