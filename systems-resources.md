@@ -12,6 +12,8 @@
 
 [Cornell CS6120 Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
+[Operating Systems: A Kernel-Oriented Perspective](https://www.cse.iitd.ac.in/~srsarangi/courses/2023/col_331_2023/index.html)
+
 
 ## Linux Kernel Internals
 
