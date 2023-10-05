@@ -10,4 +10,6 @@
 
 [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html#)
 
+[IIT Bombay Lectures on Operating Systems](https://www.cse.iitb.ac.in/~mythili/os/)
+
 
