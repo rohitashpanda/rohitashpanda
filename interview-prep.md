@@ -14,7 +14,7 @@
 
 [The Algorithms Repository](https://the-algorithms.com/)
 
-[Data Structures] (https://stepik.org/lesson/28728/step/2?unit=9786)
+[Data Structures](https://stepik.org/lesson/28728/step/2?unit=9786)
 
 [Grokking the coding interview equivalent Leetcode problems](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4)
 
@@ -23,3 +23,5 @@
 [Steven Skiena Lectures](https://www3.cs.stonybrook.edu/~skiena/373/)
 
 [UW Data Structures & Algorithms](https://courses.cs.washington.edu/courses/cse373/23wi/)
+
+[Resources to crack the next coding interview](https://github.com/aforarup/interview)
