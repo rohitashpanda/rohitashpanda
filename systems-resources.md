@@ -16,6 +16,9 @@
 
 [Operating Systems: A Kernel-Oriented Perspective](https://www.cse.iitd.ac.in/~srsarangi/courses/2023/col_331_2023/index.html)
 
+[CS450 Operating Systems](https://moss.cs.iit.edu/cs450/)
+
+[CS410/CS510 - Advanced Topics in Concurrency](https://web.cecs.pdx.edu/~theod/walpole/class/cs510/winter2018/home.html)
 
 ## Linux Kernel Internals
 
