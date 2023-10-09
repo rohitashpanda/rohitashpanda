@@ -25,3 +25,5 @@
 [UW Data Structures & Algorithms](https://courses.cs.washington.edu/courses/cse373/23wi/)
 
 [Resources to crack the next coding interview](https://github.com/aforarup/interview)
+
+[Coding Interview University](https://github.com/deepamsshah/coding-interviews-prep)
