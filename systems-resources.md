@@ -20,6 +20,9 @@
 
 [CS410/CS510 - Advanced Topics in Concurrency](https://web.cecs.pdx.edu/~theod/walpole/class/cs510/winter2018/home.html)
 
+[CS162 John Kubiatowicz's lectures](https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
+
+
 ## Linux Kernel Internals
 
 [Linux Insides](https://github.com/0xAX/linux-insides)
@@ -27,4 +30,21 @@
 [The Haifa Linux Club](http://www.haifux.org/)
 
 [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html#)
+
+[Linux from Scratch](https://www.linuxfromscratch.org/)
+
+
+## OS Development Resources
+
+[OS Dev Wiki](https://wiki.osdev.org/Main_Page)
+
+[UNIX Clone OS](http://www.jamesmolloy.co.uk/tutorial_html/index.html)
+
+[OS Development series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+
+[Writing a simple OS from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
+[How to make a computer operating system](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+
+
 
