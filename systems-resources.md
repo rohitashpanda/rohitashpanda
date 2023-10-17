@@ -54,6 +54,8 @@
 
 [Distributed Systems Challenges](https://fly.io/dist-sys/)
 
+[Challenges with DistSys](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/)
+
 
 ## Cloud Architecture and Design
 
