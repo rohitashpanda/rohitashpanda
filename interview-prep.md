@@ -1,3 +1,5 @@
+## Links to learning resources
+
 [DS Algo HLD LLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
 
 [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
@@ -27,3 +29,22 @@
 [Resources to crack the next coding interview](https://github.com/aforarup/interview)
 
 [Coding Interview University](https://github.com/deepamsshah/coding-interviews-prep)
+
+
+## Leetcode Patterns & Templates
+
+[Sliding Window Pattern](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
+
+[Two Pointer Patter](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
+
+[Substring Problem Patterns](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
+
+[DP Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+
+[DP II Patterns](https://leetcode.com/discuss/study-guide/1437879/Dynamic-Programming-Patterns)
+
+[Binary Search Templates](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
+[Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
+
+[Graph Beginners Pattern](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
