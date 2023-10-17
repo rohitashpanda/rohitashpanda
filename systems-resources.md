@@ -57,6 +57,7 @@
 [Challenges with DistSys](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/)
 
 
+
 ## Cloud Architecture and Design
 
 [Azure Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
