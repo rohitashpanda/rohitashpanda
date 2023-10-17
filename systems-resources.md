@@ -48,3 +48,28 @@
 
 
 
+## Distributed Systems Resources
+
+[Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
+[Distributed Systems Challenges](https://fly.io/dist-sys/)
+
+
+## Cloud Architecture and Design
+
+[Azure Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+
+[Cloud Design Patterns](https://cloudpatterns.org/design_patterns/)
+
+[AWS Cloud Design Pattern](https://en.clouddesignpattern.org/index.php/Main_Page)
+
+[AWS Architecture Center](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)
+
+[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+
+[AWS Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
+
+
+## Papers
+
+[A Note on Distributed Computing](https://citeseerx.ist.psu.edu/doc/10.1.1.41.7628)
