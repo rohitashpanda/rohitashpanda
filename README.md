@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Backend developer, learner and builder ...
 
-Hi, I'm Rohitash - a software engineer with strong expertise in Linux/Unix systems. I predominantly work in backend development on SaaS (DRaaS) products and core enterpise database and storage systems.
+Hi, I'm Rohitash - a software engineer with strong expertise in Linux/Unix "systems" side development. I predominantly work in backend (systems & infra) software development for SaaS (DRaaS) products and enterpise database and storage systems.
 
 A senior technical leader with multiple year's experience in software design, development, porting, debugging and optimizing performance of large-scale complicated enterprise products spanning networking/storage/systems domains.
 
