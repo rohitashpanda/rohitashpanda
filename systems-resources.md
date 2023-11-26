@@ -56,6 +56,13 @@
 
 [Challenges with DistSys](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/)
 
+[MIT Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
+
+[HN: Recommended books and papers on distributed systems](https://news.ycombinator.com/item?id=25987664)
+
+[Operating a high scale distributed system](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/)
+
+[Reading list for distributed systems and cloud computing](https://www.systutorials.com/reading-list-for-system-research-on-cloud-computing/)
 
 
 ## Cloud Architecture and Design
