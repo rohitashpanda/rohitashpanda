@@ -16,6 +16,8 @@
 
 [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
+[Google paper, Megastore: Providing Scalable, Highly Available Storage for Interactive Services](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36971.pdf)
+
 [CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
 
 [Kafka](https://notes.stephenholiday.com/Kafka.pdf)
@@ -29,6 +31,10 @@
 [Consistent Hashing](https://www.cs.princeton.edu/courses/archive/fall09/cos518/papers/chash.pdf)
 
 [Snowflake Elastic Datawarehouse](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/snowflake.pdf)
+
+[Azure Blob Storage](https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/AzureStorageSOSP11.pdf)
+
+[Amazon Dynamo Paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 
 ## Storage Systems
