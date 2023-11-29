@@ -8,6 +8,12 @@
 
 [Amazon Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
+[Amazon Aurora: Design Considerations for High 
+Throughput Cloud-Native Relational Databases](https://pdos.csail.mit.edu/6.824/papers/aurora.pdf)
+
+[Amazon Aurora: On Avoiding Distributed Consensus for I/Os,
+Commits, and Membership Changes](https://pages.cs.wisc.edu/~yxy/cs839-s20/papers/aurora-sigmod-18.pdf)
+
 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 
 [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
