@@ -80,6 +80,10 @@
 [AWS Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
 
 
+## Storage Engine
+
+[RavenDB Storage Engine Design](https://github.com/ayende/libgavran/blob/master/intro/intro.adoc)
+
 ## Papers
 
 [A Note on Distributed Computing](https://citeseerx.ist.psu.edu/doc/10.1.1.41.7628)
