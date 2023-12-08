@@ -49,6 +49,8 @@
 
 [Graph Beginners Pattern](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 
+[The Ultimate Guide to Solving BFS and DFS LeetCode Problems](https://forsoftwareengineers.com/interview/coding/leetcode/bfs-dfs/)
+
 
 ## Links
 
