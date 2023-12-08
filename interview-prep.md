@@ -58,4 +58,6 @@
 
 [Coding Interview](https://www.codinginterview.com)
 
+[Top Leetcode patterns for interviews](https://forsoftwareengineers.com/interview/coding/leetcode/patterns/)
+
 
