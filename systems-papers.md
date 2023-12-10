@@ -24,6 +24,8 @@ Commits, and Membership Changes](https://pages.cs.wisc.edu/~yxy/cs839-s20/papers
 
 [Google paper, Megastore: Providing Scalable, Highly Available Storage for Interactive Services](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36971.pdf)
 
+[Spanner Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+
 [CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
 
 [Kafka](https://notes.stephenholiday.com/Kafka.pdf)
@@ -41,6 +43,16 @@ Commits, and Membership Changes](https://pages.cs.wisc.edu/~yxy/cs839-s20/papers
 [Azure Blob Storage](https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/AzureStorageSOSP11.pdf)
 
 [Amazon Dynamo Paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+[Borg: the Next Generation](https://www.cs.cmu.edu/~harchol/Papers/EuroSys20.pdf)
+
+[Scaling Memcached at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
+
+[Consistent Hashing](https://www.cs.princeton.edu/courses/archive/fall09/cos518/papers/chash.pdf)
+
+[Log-Structured Merge Trees](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
+
+[TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 
 
 ## Storage Systems
