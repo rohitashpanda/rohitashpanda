@@ -8,3 +8,9 @@
 ## Programming, Algos & Data Structures
 
 [Advanced Programming Techniques - Andrew Koenig](https://www.cs.princeton.edu/courses/archive/spr99/cs333/)
+
+
+
+## Deep Learning , AI , Machine Learning
+
+[Deep Learning Course](https://fleuret.org/dlc/)
