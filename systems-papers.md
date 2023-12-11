@@ -16,6 +16,8 @@ Commits, and Membership Changes](https://pages.cs.wisc.edu/~yxy/cs839-s20/papers
 
 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 
+[HDFS](https://www.cs.utexas.edu/~akella/CS378/S22/838-CloudPapers/hdfs.pdf)
+
 [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
 [Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
