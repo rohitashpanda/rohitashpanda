@@ -26,6 +26,8 @@
 
 [Awesome System Design](https://github.com/madd86/awesome-system-design)
 
+[System Design Cheatsheet](https://gist.github.com/leetcode-notes/b64965f6c9a7f8fc7725b56805ab2c0f)
+
 
 
 
