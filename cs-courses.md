@@ -11,10 +11,17 @@
 
 [Big Data Systems 2018 UW Madison](https://pages.cs.wisc.edu/~shivaram/cs744-fa18/) [Big Data Systems 2021 UW Madison](https://pages.cs.wisc.edu/~shivaram/cs744-fa21/)
 
+[Big Data Systems](http://daslab.seas.harvard.edu/classes/cs265/)
+
+[Advanced Distributed Systems](https://systems.cs.columbia.edu/ds2-class/)
+
+[Advanced Distributed Storage Systems](https://www.cs.cornell.edu/courses/cs6464/2009sp/sched.htm)
+
+
+
 ## Programming, Algos & Data Structures
 
 [Advanced Programming Techniques - Andrew Koenig](https://www.cs.princeton.edu/courses/archive/spr99/cs333/)
-
 
 
 ## Deep Learning , AI , Machine Learning
