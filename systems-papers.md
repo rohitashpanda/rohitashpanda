@@ -61,3 +61,12 @@ Commits, and Membership Changes](https://pages.cs.wisc.edu/~yxy/cs839-s20/papers
 
 [What Modern NVMe Storage Can Do, And How To Exploit It:
 High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
+
+
+## Concurrency & Multi-Processing
+
+[Sequential Consistency, Leslie Lamport](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/How-to-Make-a-Multiprocessor-Computer-That-Correctly-Executes-Multiprocess-Programs.pdf)
+
+[Linearizability](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf)
+
+[Consistency, Availability and Convergence](http://www.cs.cornell.edu/lorenzo/papers/cac-tr.pdf)
