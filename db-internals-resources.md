@@ -22,3 +22,5 @@
 [Database Fundamentals](https://tontinton.com/posts/database-fundementals/?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
 
 [The secret life of fsync()](https://puzpuzpuz.dev/the-secret-life-of-fsync)
+
+[50 years later - 2-phase locking](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
