@@ -64,6 +64,8 @@
 
 [Reading list for distributed systems and cloud computing](https://www.systutorials.com/reading-list-for-system-research-on-cloud-computing/)
 
+[Building a Large-scale Distributed Storage System Based on Raft](https://tikv.org/blog/building-distributed-storage-system-on-raft/)
+
 
 ## Cloud Architecture and Design
 
@@ -89,6 +91,8 @@
 ## Storage Engine
 
 [RavenDB Storage Engine Design](https://github.com/ayende/libgavran/blob/master/intro/intro.adoc)
+
+[Usenix Revisit B+Tree Vs LSM Tree](https://www.usenix.org/publications/loginonline/revisit-b-tree-vs-lsm-tree-upon-arrival-modern-storage-hardware-built)
 
 ## Papers
 
