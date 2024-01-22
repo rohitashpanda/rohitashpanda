@@ -79,6 +79,12 @@
 
 [AWS Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
 
+[How we moved our entire Storage layer to S3](https://interactengineering.io/how-we-moved-to-s3/)
+
+[Cloud Objest Storage Comparision](https://airbyte.com/data-engineering-resources/s3-gcs-and-azure-blob-storage-compared)
+
+[S3 compatible cloud storage costs calculator](https://transactional.blog/blog/2023-cloud-storage-costs)
+
 
 ## Storage Engine
 
