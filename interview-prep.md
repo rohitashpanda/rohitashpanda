@@ -62,4 +62,36 @@
 
 [Top Leetcode patterns for interviews](https://forsoftwareengineers.com/interview/coding/leetcode/patterns/)
 
+[SDESkills meetup handouts and code](https://github.com/sde-skills/meetupHandoutsAndCode/tree/master)
 
+
+## Most Popular Problems
+
+[Most Popular leetcode problems to help crack coding interviews](https://medium.com/@goforsupriya/most-popular-leetcode-problems-to-help-crack-coding-interviews-58b07093da2)
+
+
+
+## DP Related
+
+[Freecode Demystifying dynamic programming](https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296)
+
+[Hoe to solve dynamic programming problems in coding interviews](https://dev.to/mdx97/how-to-solve-dynamic-programming-problems-in-coding-interviews-495k?signin=true)
+
+[18 Tips and strategies for solving DP problems](https://baotramduong.medium.com/leetcode-pattern-18-tips-strategies-for-solving-dynamic-programming-dp-problems-including-10-efc35e69bef3)
+
+[Unlocking leetcode success with maps, dp and greedy](https://lucascmendes.medium.com/unlocking-leetcode-success-master-problem-solving-with-maps-dynamic-programming-and-greedy-8478e64775b6)
+
+[Topcoder DP from novice to advanced](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
+
+[Learn Dynamic Programming](https://www.redgreencode.com/leetcode-tip-40-learn-dynamic-programming/)
+
+[DP is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
+
+
+## Graph Problems
+
+[Graph Its Implementation And Some popular BFS/DFS Problems…..](https://medium.com/@sanjeev-singh/graph-its-implementation-and-some-popular-bfs-dfs-problems-9ffe5e5e1211)
+
+## Leetcode Solutions and Explanations
+
+[Top 70 Leetcode Questions](https://github.com/ianyepan/top-70-leetcode-questions/tree/master)
