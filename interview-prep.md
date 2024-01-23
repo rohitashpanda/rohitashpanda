@@ -51,6 +51,10 @@
 
 [The Ultimate Guide to Solving BFS and DFS LeetCode Problems](https://forsoftwareengineers.com/interview/coding/leetcode/bfs-dfs/)
 
+[A general approach to Backtracking problems in C++](https://leetcode.com/discuss/interview-question/680269/A-general-approach-to-backtracking-Problems-in-C%2B%2B(Exhaustive-searching))'
+
+[Template that can solve most substring problems](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
+
 
 ## Links
 
