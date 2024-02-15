@@ -66,6 +66,8 @@
 
 [Building a Large-scale Distributed Storage System Based on Raft](https://tikv.org/blog/building-distributed-storage-system-on-raft/)
 
+[Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
+
 
 ## Cloud Architecture and Design
 
