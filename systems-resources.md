@@ -22,6 +22,8 @@
 
 [CS162 John Kubiatowicz's lectures](https://www.youtube.com/playlist?list=PLggtecHMfYHA7j2rF7nZFgnepu_uPuYws)
 
+[Operating Systems: A Kernel-Oriented Perspective](https://www.cse.iitd.ac.in/~srsarangi/osbook/index.html)
+
 
 ## Linux Kernel Internals
 
