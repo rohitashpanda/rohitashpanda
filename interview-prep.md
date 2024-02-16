@@ -55,6 +55,10 @@
 
 [Template that can solve most substring problems](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
 
+[Important and useful links from all over Leetcode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
+
+[Leetcode posts on system Design](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
+
 
 ## Links
 
@@ -67,6 +71,10 @@
 [Top Leetcode patterns for interviews](https://forsoftwareengineers.com/interview/coding/leetcode/patterns/)
 
 [SDESkills meetup handouts and code](https://github.com/sde-skills/meetupHandoutsAndCode/tree/master)
+
+[Interview Preparations](https://zero1code.info/)
+
+[Leetcode the hard way](https://leetcodethehardway.com/)
 
 
 ## Most Popular Problems
