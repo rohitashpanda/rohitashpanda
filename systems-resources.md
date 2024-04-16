@@ -48,6 +48,7 @@
 
 [How to make a computer operating system](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
+[Little OS Book](https://littleosbook.github.io/book.pdf)
 
 
 ## Distributed Systems Resources
