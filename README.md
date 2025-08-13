@@ -7,11 +7,11 @@ A senior technical leader with multiple year's experience in software design, de
 
 🔭 I work on ..
 
-C , C++, Python, Linux, Unix, gRPC, Microservices, Software-as-a-Service, DRaaS, Systems softwares, Storage Systems, Databases Systems, Cloud (Azure/AWS/GCP)...
+C , C++, Python, Linux, Unix, gRPC, Microservices, Software-as-a-Service, DRaaS, Systems software, Storage Systems, Databases Systems, Cloud (Azure/AWS/GCP), Travel Tech, Distributed Systems & Cloud-Native Architectures, Scalable Backend Systems ...
 
 🌱 I’m currently learning ...
 
-Golang, Dockers, Kubernates, Rust, NATS.io, OpenShift, 
+Generative AI (Azure OpenAI), Agentic AI (Google ADK/Vertec AI), Rust, NATS.io, Kafka, OpenShift
 
 
 
