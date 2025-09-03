@@ -7,3 +7,5 @@
 [Object Storage is all you need](https://thecontrolloop.substack.com/p/object-storage-is-all-you-need-justin)
 
 [Web Scale (Systems Architecture & Systems Programming)](https://shivangsnewsletter.com/)
+
+[Introducing Elastic Disk Cache](https://risingwave.com/blog/risingwave-elastic-disk-cache/)
