@@ -9,3 +9,7 @@
 [Web Scale (Systems Architecture & Systems Programming)](https://shivangsnewsletter.com/)
 
 [Introducing Elastic Disk Cache](https://risingwave.com/blog/risingwave-elastic-disk-cache/)
+
+[Moving Beyond Newtonian Reductionism in the Management of Large-Scale Distributed Systems](https://medium.com/adobetech/moving-beyond-newtonian-reductionism-in-the-management-of-large-scale-distributed-systems-part-1-191634b60388)
+
+
