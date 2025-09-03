@@ -14,7 +14,7 @@
 
 [LangChain Crash Course for Beginners](https://www.youtube.com/watch?v=lG7Uxts9SXs)
 
-
+[Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
 
 
 ## Links
