@@ -2,6 +2,8 @@
 
 [Rust rewrite case study](https://wxiaoyun.com/blog/rust-rewrite-case-study/)
 
+[Rust Design Goals](https://hackmd.io/@rust-lang-team/Sk60_ftn0)
+
 
 ## Courses
 [CS4414 OS](https://rust-class.org/index.html)
