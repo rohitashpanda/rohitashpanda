@@ -16,6 +16,7 @@
 
 [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
 
+[Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ## Links
 
@@ -28,3 +29,5 @@
 [A gentle intro to hugging face transformers library](https://machinelearningmastery.com/a-gentle-introduction-to-transformers-library/)
 
 [ChatGPT over your data](https://blog.langchain.com/tutorial-chatgpt-over-your-data/)
+
+
