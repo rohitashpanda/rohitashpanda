@@ -10,3 +10,5 @@
 [Practice Machine Learning and Data Science problems](https://www.deep-ml.com/)
 
 [Intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+
+[Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf)
