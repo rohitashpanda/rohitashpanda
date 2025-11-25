@@ -31,3 +31,6 @@
 [ChatGPT over your data](https://blog.langchain.com/tutorial-chatgpt-over-your-data/)
 
 
+## Notes
+
+[New notes from the Stanford CS336: Language Modeling from Scratch](https://bearbearyu1223.github.io/cs336/2025/11/16/cs336-the-complete-experiment-for-tinystories-transformer.html)
