@@ -11,7 +11,7 @@ C , C++, Python, Linux, Unix, gRPC, Microservices, Software-as-a-Service, DRaaS,
 
 🌱 I’m currently learning ...
 
-Generative AI (Azure OpenAI), Agentic AI (Google ADK/Vertec AI), Rust, NATS.io, Kafka, OpenShift
+Generative AI (Azure OpenAI), Agentic AI (Google ADK/Vertex AI), Rust, NATS.io, Kafka, OpenShift
 
 
 
