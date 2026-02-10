@@ -24,3 +24,5 @@
 [The secret life of fsync()](https://puzpuzpuz.dev/the-secret-life-of-fsync)
 
 [50 years later - 2-phase locking](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
+
+[Build your own DB](https://www.nan.fyi/database?&aid=recngY5riqEstqAKc&_bhlid=28097dae4592c5c678c1b1e2959685f80b5cf564)
