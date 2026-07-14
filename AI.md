@@ -29,3 +29,9 @@
 [Anthropic Agentic AI Patterns](https://resources.anthropic.com/hubfs/Building%20Effective%20AI%20Agents-%20Architecture%20Patterns%20and%20Implementation%20Frameworks.pdf)
 
 [Comprehensive Introduction (AI/ML, Gen AI and Agentic AI)](https://www.som.iitb.ac.in/wp-content/uploads/2025/10/Comprehensive_Intro_to_AI_Gen_AI_and_Agentic_AI_Rajendra_Sonar_IIT_Bombay.pdf)
+
+[Agentic Design Patterns](https://github.com/zeljkoavramovic/agentic-design-patterns)
+
+[Awesome Agentic System Design](https://github.com/gtzheng/Awesome-Agentic-System-Design)
+
+[Agentic AI Systems](https://github.com/alirezadir/Agentic-AI-Systems/tree/main)
